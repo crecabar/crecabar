@@ -13,16 +13,17 @@ class me{
   🚀 Principal Stack
 </h3> 
 <p>
-  <img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
 
 <h4>Programming Languages</h4>
 <p>
-    <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c">
-    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </p>
 <h4>Frontend Development</h4>
 <p>
