@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+```cpp
+class me{
+    public:
+    char* Name = "Cristian Recabarren Madrid";
+    char* role = "Software Engineer";
+    private:
+    char* IG = "instagram.com/crissba55/";
+    char* LinkedIN = "https://www.linkedin.com/in/crecabar/";
+}
+```
+
 <!--
 **crecabar/crecabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
