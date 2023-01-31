@@ -10,6 +10,12 @@ class me{
 }
 ```
 
+### Programming Languages
+
+<img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk">
+
 
 ### Github Stats:
 
