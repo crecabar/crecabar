@@ -9,37 +9,6 @@ class me{
     char* LinkedIN = "https://www.linkedin.com/in/crecabar/";
 }
 ```
-
-{
-  "type": "Assertion",
-  "id": "https://api.badgr.io/public/assertions/11DdQ6v1S7ahp2L9hM5-DA",
-  "@context": "https://w3id.org/openbadges/v2",
-  "recipient": {
-    "type": "email",
-    "salt": "NzJbcNRZEJmd2jGC",
-    "hashed": true,
-    "identity": "sha256$608961df30259823634709a8843efbfe6012ded6dda086ef9c3f0b1178584ed3"
-  },
-  "badge": "https://api.badgr.io/public/badges/rlZToupuQaqFkehC__z1Iw",
-  "issuedOn": "2023-10-02T04:00:00Z",
-  "image": {
-    "id": "https://api.badgr.io/public/assertions/11DdQ6v1S7ahp2L9hM5-DA/image"
-  },
-  "narrative": "Participated in Babson Build 2023 at Babson College",
-  "revoked": false,
-  "verification": {
-    "type": "HostedBadge"
-  },
-  "extensions:recipientProfile": {
-    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
-    "type": [
-      "Extension",
-      "extensions:RecipientProfile"
-    ],
-    "name": "Cristian Recabarren"
-  }
-}
-
 <h3>
   🚀 Principal Stack
 </h3> 
