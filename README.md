@@ -9,7 +9,7 @@ class me{
     char* LinkedIN = "https://www.linkedin.com/in/crecabar/";
 }
 ```
-```json
+
 {
   "type": "Assertion",
   "id": "https://api.badgr.io/public/assertions/11DdQ6v1S7ahp2L9hM5-DA",
@@ -39,7 +39,7 @@ class me{
     "name": "Cristian Recabarren"
   }
 }
-```
+
 <h3>
   🚀 Principal Stack
 </h3> 
