@@ -1,7 +1,7 @@
 # Cristian Rubén Recabarren Madrid
-Ingeniero en Civil en Computación / Universidad Tecnológica Metropolitana
-Magíster en Gestión Tecnológica y Emprendimiento / Universidad Adolfo Ibáñez (En Progreso)
-+56 9 9834 7770
+Ingeniero en Civil en Computación / Universidad Tecnológica Metropolitana \
+Magíster en Gestión Tecnológica y Emprendimiento / Universidad Adolfo Ibáñez (En Progreso) \
++56 9 9834 7770 \
 crecabar_cl@me.com
 
 ## Perfil
