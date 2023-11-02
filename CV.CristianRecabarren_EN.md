@@ -1,22 +1,22 @@
 # Cristian Rubén Recabarren Madrid
-Bachelor of Engineering Science major in Computer Science / Universidad Tecnológica Metropolitana
-Master on Technological Management and Entrepreneur / Universidad Adolfo Ibáñez (In Progress) 
-+56 9 9834 7770
+Bachelor of Engineering Science major in Computer Science / Universidad Tecnológica Metropolitana \
+Master on Technological Management and Entrepreneur / Universidad Adolfo Ibáñez (In Progress) \
++56 9 9834 7770 \
 crecabar_cl@me.com
 
 ## Profile
 Bachelor of Engineering Science in Computer Science with a strong background in software development and a proven track record in leading and managing teams for successful project delivery. Committed to continuous self-improvement and achieving optimal solutions.
 
-## Work Experience
+## Work Experience
 ### Software Engineer, National Energy Commission of Chile, December 2018 - to date
 * *Led cross-functional teams*: Successfully led cross-functional teams in improving "Energía Región" ETL scripts in Python.
 * *Application Enhancement*: Played a pivotal role in enhancing the "Energy Sector Daily Report" application as a developer.
 * *Project Lead*: Acted as a team leader for the Electric Market Monitoring Platform.
 * *Development of Online Procedures*: Developed and deployed several processes for the new online procedures platform.
-### Software Engineer, Ministry of Energy of Chile, September 2016 - November 2018
+### Software Engineer, Ministry of Energy of Chile, September 2016 - November 2018
 * *Project Design and Management*: Successfully designed and managed the development of the new version of the Energy Management platform using C# and ASP.NET as part of the Efficient Government initiative.
 * Led and developed major changes to the online procedures platform to make it user-friendly for the Citizen Information, Complaints, and Suggestions Office. These enhancements were implemented from version 1 to the current version 2, which is utilized across all government online procedures platforms.
-### Co-Founder and CTO, Synacore SpA, October 2013 - September 2015
+### Co-Founder and CTO, Synacore SpA, October 2013 - September 2015
 * Designed and spearheaded the development of software solutions for company projects, including a joint venture with an Italian partner to enter the Chilean market.
 ### Software Quality Assurance Engineer, ALMA Observatory, November 2010 - December 2013
 * *Quality Audits*: Led the preparation of three sub-departments for internal quality audits, ensuring compliance with ISO 9001:2005 standards.
