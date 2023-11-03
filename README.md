@@ -15,6 +15,7 @@ class me{
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://api.badgr.io/public/assertions/11DdQ6v1S7ahp2L9hM5-DA/image">
 </p>
 
 <h4>Programming Languages</h4>
