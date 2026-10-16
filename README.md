@@ -8,13 +8,31 @@ My professional work focuses on backend systems, domain modelling, maintainable 
 
 Based in Santiago, Chile.
 
+[❤️ Sponsor my open-source work](https://github.com/sponsors/crecabar)
+
 ## What I'm building
 
 ### [MyOS](https://github.com/crecabar/myos) — an educational Unix-like operating system
 
 MyOS is an open-source, x86-64 operating system written primarily in C. Its purpose is to understand and implement the mechanisms that make an operating system work, with explicit contracts, incremental development and reproducible tests.
 
-The kernel has progressed through UEFI boot, virtual memory, privilege separation, preemptive scheduling, ELF userspace execution, system calls, process lifecycle management and a virtual filesystem. Development is now focused on the first interactive user shell, **`myos $ `**, after introducing initial Unix-style userspace commands.
+The kernel has progressed through UEFI boot, virtual memory, privilege separation, preemptive scheduling, ELF userspace execution, system calls, process lifecycle management and a virtual filesystem. **MyOS 0.3.0 now boots into an interactive userspace shell, `myos # Cristian Recabarren
+
+**Software Engineer · Software Architect · Founder of [Flō Finanstic](https://flofinanstic.com/) · Creator of [MyOS](https://github.com/crecabar/myos)**
+
+I build software across two complementary areas: **application and product engineering** and **low-level systems programming**.
+
+My professional work focuses on backend systems, domain modelling, maintainable architectures and software that solves real problems. Outside that work, I study operating systems by building one from the ground up.
+
+Based in Santiago, Chile.
+
+## What I'm building
+
+### [MyOS](https://github.com/crecabar/myos) — an educational Unix-like operating system
+
+MyOS is an open-source, x86-64 operating system written primarily in C. Its purpose is to understand and implement the mechanisms that make an operating system work, with explicit contracts, incremental development and reproducible tests.
+
+,** with an initial C runtime and Unix-style utilities. The next phase expands shell capabilities, including pipes, redirection and job control.
 
 MyOS uses **LLVM/Clang, LLD, Limine, QEMU, GDB and GNU Make**, and has also booted on physical x86-64 hardware.
 
@@ -39,6 +57,16 @@ My engineering work on Flō includes financial domain modelling, application arc
 **Stack:** PHP · Laravel · Vue · TypeScript · MySQL · Redis · Docker · AWS
 
 Flō's main application is developed privately under the [Flō Finanstic organization](https://github.com/flofinanstic). The public GitHub profile therefore showcases more of my systems-programming work than of Flō's production code.
+
+## Support my open-source work ❤️
+
+I develop MyOS and other open-source projects to explore systems programming, share knowledge, and build useful educational tools.
+
+If you find my work interesting or useful, you can help support its continued development.
+
+**[❤️ Become a GitHub Sponsor](https://github.com/sponsors/crecabar)**
+
+Every contribution helps sustain independent open-source development, testing and documentation. The code remains open to everyone, whether or not they sponsor my work. Thank you!
 
 ## Selected public projects
 
